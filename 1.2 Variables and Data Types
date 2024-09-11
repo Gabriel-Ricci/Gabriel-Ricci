@@ -1,0 +1,14 @@
+public class Main
+{
+    
+    public static void main(String[] args)
+    {
+        int i = 8 ;
+        final double d = 2;
+        boolean b = true;
+        String s = "CSA";
+        i = i - 5;
+        System.out.println(i + d);
+        System.out.print(b + s);
+    }
+}
